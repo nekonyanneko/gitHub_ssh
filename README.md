@@ -1,1 +1,1 @@
-# gitHub_ssh
+# gitHubとssh通信するための設定
